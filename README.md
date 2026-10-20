@@ -16,3 +16,5 @@ Output
 _© 2022 XYZ, Inc._
 
 This repository is used to practice Git and GitHub.
+
+This project demonstrates Git branching and pull requests.
