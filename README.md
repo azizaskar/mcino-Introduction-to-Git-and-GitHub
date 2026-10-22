@@ -48,3 +48,5 @@ Enter the principal, rate, and time when prompted.
 ## License
 
 This project is licensed under the Apache License 2.0.
+
+© 2022 XYZ, Inc.
